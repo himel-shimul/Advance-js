@@ -11,5 +11,5 @@ function add(num1, num2){
 const premik = {name:  "smart dude", phone: 7342747254}
 console.log(premik.gf);
 
-let ages = [3, 5, 6]
+let ages = [3, 5, 9, 6]
 console.log(ages[10]);
